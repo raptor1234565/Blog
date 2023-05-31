@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f1f1f1;
+}
+
+#about-me-h2 {
+    color: #6e1bbe;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.personal-info {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.personal-hobby {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+ul {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.hobby {
+    font-size: 16px;
+    line-height: 1.2;
+    margin-top: 5px;
+}
